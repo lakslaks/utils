@@ -1,0 +1,6 @@
+{
+  "model": "llama3.1",
+  "system_prompt": "You are a concise assistant. Answer directly and completely. Do not ask follow-up questions. Do not offer further help or suggest next steps unless explicitly requested.",
+  "persona": "south_indian",
+  "persona_custom": ""
+}
